@@ -5,7 +5,7 @@
   <app appid="dpndhifbbeoakchnnihllajlmahjkbca">
 
     <updatecheck
-      codebase="https://igoraraujocruz.github.io/technote/techNote-1.0.0.crx"
+      codebase="https://igoraraujocruz.github.io/technote/techNote-1.0.1.crx"
       version="1.0.0" />
   </app>
 </gupdate>
